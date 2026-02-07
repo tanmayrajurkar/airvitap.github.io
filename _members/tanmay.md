@@ -5,9 +5,9 @@ role: undergraduate
 affiliation: VIT AP University
 description:
 links:
-  email: tanmay.23mic7223@vitapstudent.ac.in
-  github: github.com/tanmayrajurkar
-  linkedin: linkedin.com/in/tanmay-rajurkar-254305227/
+  email: tanmayrajurkar1915@gmail.com
+  github: tanmayrajurkar
+  linkedin: tanmay-rajurkar-254305227
 ---
 
 # Hi! I am **Tanmay**
